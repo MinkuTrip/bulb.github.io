@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+h1{
+    color: rgb(169, 247, 52);
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 710px;
+}
+
+footer{
+    align-items: center;
+    margin-left: 670px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: antiquewhite;
+}
+
+img{
+    margin-top: 10px;
+    height: 600px;
+    width: 300px;
+    margin-left: 600px;
+}
+
+button{
+    border-radius: 50px;
+    height: 50px;
+    color: rgb(130, 234, 40);
+    background:rgb(96, 139, 84);
+    align-content: center;
+    margin-left: 730px;
+    margin-bottom: 10px;
+}
+
+button:active{
+    background:rgb(188, 201, 53);
+}
